@@ -1,0 +1,4 @@
+{:deps
+  {org.babashka/sci {:mvn/version "0.8.40"}}
+ :aliases
+  {:run {:main-opts ["-m" "interpreter.core"]}}}
